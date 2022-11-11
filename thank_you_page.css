@@ -1,0 +1,19 @@
+*{
+  background-color: #a2d2ff;
+  margin: auto;
+}
+h1{
+  text-align: center;
+  font-family:fantasy;
+  font-weight: lighter;
+  text-decoration: underline;
+}
+h2{
+  text-align: center;
+  font-family: "arial";
+  font-style:italic;
+}
+body{
+  padding: 20px;
+  border: 20px solid #1d3557;
+}
